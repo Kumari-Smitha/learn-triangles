@@ -1,0 +1,23 @@
+body {
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    /* position: relative; */
+    
+    
+  }
+
+  .app{
+    position: relative;
+  }
+ 
+
+footer{
+    
+    /* bottom: 0; */
+    position: absolute;
+    display: flex;
+    justify-content: end;
+    
+}
